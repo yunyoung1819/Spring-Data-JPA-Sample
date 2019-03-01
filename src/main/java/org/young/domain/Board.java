@@ -1,4 +1,4 @@
-package org.zerock.domain;
+package org.young.domain;
 
 import java.sql.Timestamp;
 
